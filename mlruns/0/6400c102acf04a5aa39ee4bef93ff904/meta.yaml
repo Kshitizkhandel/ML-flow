@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/0/6400c102acf04a5aa39ee4bef93ff904/artifacts
+end_time: 1709830027766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6400c102acf04a5aa39ee4bef93ff904
+run_name: welcoming-sloth-256
+run_uuid: 6400c102acf04a5aa39ee4bef93ff904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709830023843
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///app/mlruns/0/d341e6b27f8c4913ae0aadee9fd59e6a/artifacts
+end_time: 1709829952360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d341e6b27f8c4913ae0aadee9fd59e6a
+run_name: masked-dove-845
+run_uuid: d341e6b27f8c4913ae0aadee9fd59e6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709829947920
+status: 3
+tags: []
+user_id: root
